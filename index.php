@@ -86,12 +86,7 @@ body {
 	<br>
 	<br>
 	<br>
-	<button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3Ib9Vxx'">OUR-GIT</button>
-	<div>
-	<br>
-	<br>
-	<br>
-        <button class="glow-on-hover" type="button" onclick="window.location.href='https://bit.ly/3yciWlq'">MD GIT</button>
+        <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/inrl-official'">GITHUB</button>
 	<div>
 	<br>
 	<br>
