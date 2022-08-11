@@ -76,7 +76,7 @@ body {
 }
   </style>
 	<div>
-	<button class="glow-on-hover" type="button"onclick="window.location.href='https://qrcodeforinrl.herokuapp.com'">GET QR</button>
+	<button class="glow-on-hover" type="button"onclick="window.location.href='https://qr-code-for-md.herokuapp.com/'">GET QR</button>
 	<div>
 	<br>
 	<br>
