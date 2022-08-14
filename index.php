@@ -86,9 +86,13 @@ body {
 	<br>
 	<br>
 	<br>
+        <button class="glow-on-hover" type="button" onclick="window.location.href='https://qr-code-for-md.vercel.app/'">FIX ERROR</button>
+	<div>
+	<br>
+	<br>
+	<br>
         <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/inrl-official'">GITHUB</button>
 	<div>
 	<br>
 	<br>
 	<br>
-        
