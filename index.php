@@ -81,7 +81,7 @@ body {
 	<br>
 	<br>
 	<br>
-	<button class="glow-on-hover" type="button" onclick="window.location.href='https://contact-inrl.herokuapp.com/'">CONTACT</button>
+	<button class="glow-on-hover" type="button" onclick="window.location.href='https://contact-inrl.vercel.app/'">CONTACT</button>
 	<div>
 	<br>
 	<br>
@@ -92,6 +92,11 @@ body {
 	<br>
 	<br>
         <button class="glow-on-hover" type="button" onclick="window.location.href='https://github.com/inrl-official'">GITHUB</button>
+	<div>
+	<br>
+	<br>
+	<br>
+        <button class="glow-on-hover" type="button" onclick="window.location.href='https://chat.whatsapp.com/GuoCHF6Wjci8rKPe6CKHsi'">SUPPORT GRP</button>
 	<div>
 	<br>
 	<br>
