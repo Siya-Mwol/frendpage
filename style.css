@@ -73,3 +73,12 @@ body
 {
   transform: translateX(170px) skewX(30deg);
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #28272a;
+  color: white;
+  text-align: center;
+}
